@@ -7,8 +7,6 @@ You are welcome to edit the code and create pull requests if it'll benefit this 
 
 Multiple Roblox Instances is built into the account manager but [must be manually enabled](https://github.com/ic3w0lf22/Roblox-Account-Manager/blob/master/README.md#q-how-do-i-enable-multi-roblox).
 
-Report bugs to the issues section or direct message me via discord @ ic3#0001 or join the discord: https://discord.gg/MsEH7smXY8
-
 # WARNING
 If someone asks you to generate an "rbx-player link", **DO NOT** do it, they can use these to join any game using your account, or even launch roblox studio with one of your games. They can do many things in game such as spend your robux or even do things that can get your account terminated. **USE THESE FEATURES AT YOUR OWN RISK**
 
@@ -17,9 +15,6 @@ Extra features can be enabled by setting DevMode=false to DevMode=true in RAMSet
 Beware of the risks that you are taking if you accidentally send something to someone.
 
 If you ever want a friend to join a game using your account, make sure you have the PlaceId and JobId correctly entered, then right click an account, and click "Copy rbx-player link", DO NOT do this if someone asks you for it.
-
-# Download
-To install this, head over to the [Releases](https://github.com/ic3w0lf22/Roblox-Account-Manager/releases) section and download the rar file at the very top, once downloaded, extract the files into a folder on your desktop and run RBX Alt Manager.exe.
 
 If the application isn't starting or not working, make sure to install the [Latest .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework).
 Still having issues? Download and install [vcredist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
@@ -57,10 +52,6 @@ Be careful executing random scripts when having dangerous settings enabled.
 **A:** The yellow-red dots that appear on an account means that account hasn't been used in over 20 days, as that day counter goes up, the dot appears more red. You can get rid of this dot by joining a game or enabling developer mode and clicking "Get Authentication Ticket" when you right click an account (works with multiple).
 
 
-## **Q:** How do I backup my accounts file?
-
-**A:** Download [RAMDecrypt](https://github.com/ic3w0lf22/RAMDecrypt) and follow the instructions provided, then you can save the fully decrypted file in google drive, on a flash drive, or where ever you'd like. This does **NOT** work on files that didn't originate from your PC.
-
 
 ## **Q:** How do I prevent Windows Defender from deleting alt manager files?
 
@@ -70,11 +61,6 @@ Be careful executing random scripts when having dangerous settings enabled.
 ## **Q:** Can I join vip servers using alt manager?
 
 **A:** Yes you can, just make sure the place id is the same as the game you're trying to join, then paste the whole vip server link into the Job ID box and press Join Server
-
-
-## **Q:** Are there docs for the API?
-
-**A:** Yes, there are Docs: https://ic3w0lf22.gitbook.io/roblox-account-manager/
 
 
 ## **Q:** My anti virus detects this program as a virus. Should I not use it?
